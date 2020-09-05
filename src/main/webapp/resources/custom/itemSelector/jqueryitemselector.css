@@ -1,0 +1,44 @@
+/* Div Containers */
+#selectcontainer .from_container,.buttons_container {
+	float: left;
+	text-align: center;
+	margin: 10px;
+}
+
+#selectcontainer .to_container {
+	float: left;
+	text-align: center;
+	margin: 10px 0px 10px 10px;
+}
+
+/* Div Container for Ascending and Descending icons */
+#selectcontainer .ascdes_container {
+	float: left;
+	margin: 10px 0px 0px 0px;
+}
+
+/* Styles for select box */
+#selectcontainer select {
+	width: 224px;
+	height: 252px;
+	*height: 246px; /* for IE Browers */
+	border: 1px #000033 solid;
+	background-color: #b3d1fd;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+}
+
+/* This is for img input */
+#selectcontainer input {
+	outline: none;
+}
+
+/* Whole main container which holds all div containers */
+#selectcontainer {
+	margin: 0 auto;
+	background-color: #3285ef;
+	padding: 10px;
+	width: 570px;
+	*width: 580px; /* for IE Browers */
+	clear: both;
+}
