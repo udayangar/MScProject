@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 jboss-springmvc-webapp
 ========================
 
@@ -71,3 +72,6 @@ email VARCHAR2(50),
 phone_number VARCHAR2(12)
 )
 
+=======
+# MScProject
+>>>>>>> 1e2ebc6e4801a6ea2b2263ccd6d7164e0268e6af
